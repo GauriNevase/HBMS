@@ -1,4 +1,5 @@
 OBJECTIVE:
+
 Hospital Bed management system is an organized computerized system designed to deal with day-today operations of hospital beds. However, when running a large medical centre or chain of hospitals,
 we understand that bed tracking is more challenging than it seems. Poor bed visibility, delayed bed
 maintenance, and a lack of centralized information can make tracking available beds difficult. Some
@@ -6,7 +7,10 @@ of the challenges faced by the hospitals today are use of manual system for the 
 maintenance of critical information. One can easily find out if a specific bed is available in a ward.By
 automating hospital bed management systems and providing bed visibility, clinical staff are no longer
 forced to rely on outdated information or error-prone manual records.
+
+
 PROJECT OVERVIEW:
+
 The hospital bed management is designed for hospital to replace their existing manual system. The
 new system is to control the following information: patient information, room availability and bed
 visibility. These services are provided in graphic user interface in an efficient manner to reduce the
